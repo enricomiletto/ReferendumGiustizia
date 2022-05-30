@@ -836,11 +836,7 @@ anziano.
 elezioni  devono essere presentate all'ufficio centrale elettorale le
 candidature,  mediante  apposita  dichiarazione con firma autenticata
 dal  Presidente  del  tribunale  nel  cui  circondario  il magistrato
-esercita  le  sue  funzioni  unitamente  ad  una  lista di magistrati
-presentatori non inferiore a venticinque e non superiore a cinquanta.
-I   magistrati  presentatori  non  possono  presentare  piu'  di  una
-candidatura  in  ciascuno dei collegi di cui al comma 2 dell'articolo
-23, ne' possono candidarsi a loro volta. Dalla predetta dichiarazione
+esercita  le  sue  funzioni. Dalla predetta dichiarazione
 deve risultare anche, sotto la responsabilita' del candidato, che non
 sussiste  alcuna  delle  cause di ineleggibilita' di cui all'articolo
 24.
